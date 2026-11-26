@@ -1,0 +1,28 @@
+item_id,participants_share,low,high,n,benchmark_group,benchmark_share,benchmark_low,benchmark_high,benchmark_source,benchmark_note,measure
+SA1,0.7819,0.7530,0.8108,784,All teens 12-17,0.8851,0.8764,0.8937,NSCH 2024,"Parent report, ages 12-17; weighted",Has a non-parental adult to rely on for advice
+SA1,0.7819,0.7530,0.8108,784,Family income < 200% of poverty line,0.8194,0.7985,0.8404,NSCH 2024,"Parent report, ages 12-17; weighted",Has a non-parental adult to rely on for advice
+SA1,0.7819,0.7530,0.8108,784,Family income 200%+ of poverty line,0.9223,0.9145,0.9300,NSCH 2024,"Parent report, ages 12-17; weighted",Has a non-parental adult to rely on for advice
+BE1,0.4275,0.3929,0.4621,786,All high school students,0.5528,0.5391,0.5666,YRBS 2023,"Student report, grades 9-12; weighted",Feels close to people at school (agree/strongly agree)
+BE1,0.4275,0.3929,0.4621,786,Basic needs not reliably met,0.4834,0.4450,0.5219,YRBS 2023,"Student report, grades 9-12; weighted",Feels close to people at school (agree/strongly agree)
+BE1,0.4275,0.3929,0.4621,786,Basic needs reliably met,0.5637,0.5487,0.5787,YRBS 2023,"Student report, grades 9-12; weighted",Feels close to people at school (agree/strongly agree)
+EN1,0.8295,0.8031,0.8559,780,All teens 12-17,0.8438,0.8341,0.8535,NSCH 2024,"Parent report, ages 12-17; weighted",Cares about doing well in school (always/usually)
+EN1,0.8295,0.8031,0.8559,780,Family income < 200% of poverty line,0.8169,0.7962,0.8376,NSCH 2024,"Parent report, ages 12-17; weighted",Cares about doing well in school (always/usually)
+EN1,0.8295,0.8031,0.8559,780,Family income 200%+ of poverty line,0.8595,0.8495,0.8695,NSCH 2024,"Parent report, ages 12-17; weighted",Cares about doing well in school (always/usually)
+EN2,0.8423,0.8167,0.8679,780,All teens 12-17,0.8346,0.8246,0.8445,NSCH 2024,"Parent report, ages 12-17; weighted",Does all required homework (always/usually)
+EN2,0.8423,0.8167,0.8679,780,Family income < 200% of poverty line,0.7964,0.7749,0.8179,NSCH 2024,"Parent report, ages 12-17; weighted",Does all required homework (always/usually)
+EN2,0.8423,0.8167,0.8679,780,Family income 200%+ of poverty line,0.8568,0.8467,0.8668,NSCH 2024,"Parent report, ages 12-17; weighted",Does all required homework (always/usually)
+EN3,0.8737,0.8505,0.8970,784,All teens 12-17,0.8060,0.7954,0.8166,NSCH 2024,"Parent report, ages 12-17; weighted",Works to finish tasks started (always/usually)
+EN3,0.8737,0.8505,0.8970,784,Family income < 200% of poverty line,0.7892,0.7674,0.8110,NSCH 2024,"Parent report, ages 12-17; weighted",Works to finish tasks started (always/usually)
+EN3,0.8737,0.8505,0.8970,784,Family income 200%+ of poverty line,0.8158,0.8047,0.8270,NSCH 2024,"Parent report, ages 12-17; weighted",Works to finish tasks started (always/usually)
+EN4,0.8455,0.8201,0.8708,783,All teens 12-17,0.7486,0.7370,0.7601,NSCH 2024,"Parent report, ages 12-17; weighted",Stays calm when challenged (always/usually)
+EN4,0.8455,0.8201,0.8708,783,Family income < 200% of poverty line,0.7287,0.7050,0.7524,NSCH 2024,"Parent report, ages 12-17; weighted",Stays calm when challenged (always/usually)
+EN4,0.8455,0.8201,0.8708,783,Family income 200%+ of poverty line,0.7601,0.7479,0.7723,NSCH 2024,"Parent report, ages 12-17; weighted",Stays calm when challenged (always/usually)
+EN5,0.8444,0.8190,0.8698,784,All teens 12-17,0.7833,0.7723,0.7944,NSCH 2024,"Parent report, ages 12-17; weighted",Shows interest and curiosity (always/usually)
+EN5,0.8444,0.8190,0.8698,784,Family income < 200% of poverty line,0.7699,0.7476,0.7923,NSCH 2024,"Parent report, ages 12-17; weighted",Shows interest and curiosity (always/usually)
+EN5,0.8444,0.8190,0.8698,784,Family income 200%+ of poverty line,0.7912,0.7795,0.8029,NSCH 2024,"Parent report, ages 12-17; weighted",Shows interest and curiosity (always/usually)
+HO1,0.8910,0.8693,0.9127,789,All teens 12-17,0.9356,0.9289,0.9422,NSCH 2024,"Parent report, ages 12-17; weighted",Stays hopeful facing problems (all/most of the time)
+HO1,0.8910,0.8693,0.9127,789,Family income < 200% of poverty line,0.9105,0.8949,0.9261,NSCH 2024,"Parent report, ages 12-17; weighted",Stays hopeful facing problems (all/most of the time)
+HO1,0.8910,0.8693,0.9127,789,Family income 200%+ of poverty line,0.9499,0.9435,0.9562,NSCH 2024,"Parent report, ages 12-17; weighted",Stays hopeful facing problems (all/most of the time)
+HO2,0.3359,0.3028,0.3690,780,All high school students,0.3972,0.3862,0.4082,YRBS 2023,"Student report, grades 9-12; weighted",Felt sad or hopeless almost every day for 2+ weeks (past year)
+HO2,0.3359,0.3028,0.3690,780,Basic needs not reliably met,0.4760,0.4423,0.5096,YRBS 2023,"Student report, grades 9-12; weighted",Felt sad or hopeless almost every day for 2+ weeks (past year)
+HO2,0.3359,0.3028,0.3690,780,Basic needs reliably met,0.3949,0.3818,0.4079,YRBS 2023,"Student report, grades 9-12; weighted",Felt sad or hopeless almost every day for 2+ weeks (past year)

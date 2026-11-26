@@ -1,0 +1,25 @@
+wave,arm,group,n,retained
+0,program,All,400,1.0000
+0,program,Hardship,131,1.0000
+0,program,No hardship,269,1.0000
+0,comparison,All,400,1.0000
+0,comparison,Hardship,115,1.0000
+0,comparison,No hardship,285,1.0000
+3,program,All,400,0.9450
+3,program,Hardship,131,0.9160
+3,program,No hardship,269,0.9591
+3,comparison,All,400,0.9125
+3,comparison,Hardship,115,0.9217
+3,comparison,No hardship,285,0.9088
+6,program,All,400,0.9000
+6,program,Hardship,131,0.8397
+6,program,No hardship,269,0.9294
+6,comparison,All,400,0.8275
+6,comparison,Hardship,115,0.8261
+6,comparison,No hardship,285,0.8281
+12,program,All,400,0.8400
+12,program,Hardship,131,0.7634
+12,program,No hardship,269,0.8773
+12,comparison,All,400,0.7050
+12,comparison,Hardship,115,0.6435
+12,comparison,No hardship,285,0.7298

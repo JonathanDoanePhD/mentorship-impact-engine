@@ -1,0 +1,31 @@
+outcome,label,dimension,group,g,g_low,g_high,n_program,n_comparison,suppressed
+belonging,School belonging,Household hardship,Yes,0.2400,0.0233,0.4567,100.0000,74.0000,False
+belonging,School belonging,Household hardship,No,0.1170,-0.0120,0.2460,236.0000,208.0000,False
+belonging,School belonging,Gender,Another identity,,,,,,True
+belonging,School belonging,Gender,Boy,0.2172,0.0509,0.3835,150.0000,109.0000,False
+belonging,School belonging,Gender,Girl,0.1291,-0.0269,0.2851,168.0000,162.0000,False
+belonging,School belonging,Race/ethnicity,Asian,,,,,,True
+belonging,School belonging,Race/ethnicity,Black,0.0801,-0.1174,0.2777,103.0000,84.0000,False
+belonging,School belonging,Race/ethnicity,Hispanic,0.2734,0.0543,0.4925,113.0000,84.0000,False
+belonging,School belonging,Race/ethnicity,Multiracial/other,0.5479,0.2431,0.8527,28.0000,27.0000,False
+belonging,School belonging,Race/ethnicity,White,0.0660,-0.1721,0.3042,76.0000,69.0000,False
+self_efficacy,Self-efficacy,Household hardship,Yes,0.1580,-0.0402,0.3562,100.0000,74.0000,False
+self_efficacy,Self-efficacy,Household hardship,No,0.0417,-0.0736,0.1571,236.0000,208.0000,False
+self_efficacy,Self-efficacy,Gender,Another identity,,,,,,True
+self_efficacy,Self-efficacy,Gender,Boy,0.0426,-0.1151,0.2002,150.0000,109.0000,False
+self_efficacy,Self-efficacy,Gender,Girl,0.0996,-0.0383,0.2375,168.0000,162.0000,False
+self_efficacy,Self-efficacy,Race/ethnicity,Asian,,,,,,True
+self_efficacy,Self-efficacy,Race/ethnicity,Black,-0.0276,-0.2220,0.1668,103.0000,84.0000,False
+self_efficacy,Self-efficacy,Race/ethnicity,Hispanic,0.0213,-0.1555,0.1980,113.0000,84.0000,False
+self_efficacy,Self-efficacy,Race/ethnicity,Multiracial/other,0.4328,-0.0076,0.8733,28.0000,27.0000,False
+self_efficacy,Self-efficacy,Race/ethnicity,White,0.0579,-0.1432,0.2590,76.0000,69.0000,False
+engagement,Engagement & persistence,Household hardship,Yes,0.1978,-0.0126,0.4082,100.0000,74.0000,False
+engagement,Engagement & persistence,Household hardship,No,0.1400,0.0123,0.2677,235.0000,208.0000,False
+engagement,Engagement & persistence,Gender,Another identity,,,,,,True
+engagement,Engagement & persistence,Gender,Boy,0.1720,0.0065,0.3374,150.0000,109.0000,False
+engagement,Engagement & persistence,Gender,Girl,0.1304,-0.0204,0.2812,167.0000,162.0000,False
+engagement,Engagement & persistence,Race/ethnicity,Asian,,,,,,True
+engagement,Engagement & persistence,Race/ethnicity,Black,0.1496,-0.0523,0.3515,102.0000,84.0000,False
+engagement,Engagement & persistence,Race/ethnicity,Hispanic,0.2744,0.0894,0.4595,113.0000,84.0000,False
+engagement,Engagement & persistence,Race/ethnicity,Multiracial/other,0.0153,-0.3360,0.3665,28.0000,27.0000,False
+engagement,Engagement & persistence,Race/ethnicity,White,0.1242,-0.1032,0.3517,76.0000,69.0000,False

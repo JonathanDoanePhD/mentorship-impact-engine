@@ -1,0 +1,49 @@
+outcome,label,wave,arm,n,mean,low,high
+belonging,School belonging,0,comparison,400,53.6771,51.5457,55.8085
+belonging,School belonging,0,program,400,54.8646,52.7096,57.0195
+belonging,School belonging,3,comparison,365,52.2317,49.8571,54.6064
+belonging,School belonging,3,program,378,55.4894,53.2518,57.7270
+belonging,School belonging,6,comparison,331,53.0023,50.5448,55.4597
+belonging,School belonging,6,program,360,57.4711,55.1910,59.7512
+belonging,School belonging,12,comparison,282,53.6348,51.0155,56.2540
+belonging,School belonging,12,program,336,57.8125,55.4707,60.1543
+self_efficacy,Self-efficacy,0,comparison,400,57.9833,55.8428,60.1238
+self_efficacy,Self-efficacy,0,program,400,58.3146,56.1444,60.4848
+self_efficacy,Self-efficacy,3,comparison,365,56.3813,54.1117,58.6508
+self_efficacy,Self-efficacy,3,program,378,59.0906,56.9659,61.2153
+self_efficacy,Self-efficacy,6,comparison,331,56.8253,54.4192,59.2314
+self_efficacy,Self-efficacy,6,program,360,59.8947,57.7268,62.0625
+self_efficacy,Self-efficacy,12,comparison,282,57.6965,55.1877,60.2053
+self_efficacy,Self-efficacy,12,program,336,61.0888,58.7614,63.4162
+engagement,Engagement & persistence,0,comparison,400,73.3097,71.4567,75.1627
+engagement,Engagement & persistence,0,program,400,73.4375,71.6518,75.2232
+engagement,Engagement & persistence,3,comparison,365,73.0609,71.0698,75.0520
+engagement,Engagement & persistence,3,program,378,75.5071,73.6622,77.3519
+engagement,Engagement & persistence,6,comparison,331,72.5881,70.5069,74.6694
+engagement,Engagement & persistence,6,program,360,76.0370,74.2127,77.8613
+engagement,Engagement & persistence,12,comparison,282,74.1548,71.9388,76.3709
+engagement,Engagement & persistence,12,program,335,77.2537,75.3227,79.1848
+supportive_adults,Supportive adults,0,comparison,400,64.2750,61.4995,67.0505
+supportive_adults,Supportive adults,0,program,399,66.1779,63.2686,69.0873
+supportive_adults,Supportive adults,3,comparison,365,63.0137,60.1026,65.9248
+supportive_adults,Supportive adults,3,program,378,67.0635,64.1182,70.0088
+supportive_adults,Supportive adults,6,comparison,331,64.6375,61.4515,67.8234
+supportive_adults,Supportive adults,6,program,360,69.7500,66.8202,72.6798
+supportive_adults,Supportive adults,12,comparison,282,63.7766,60.2042,67.3490
+supportive_adults,Supportive adults,12,program,336,72.5000,69.6677,75.3323
+bridging,Bridging ties,0,comparison,400,45.4167,42.3843,48.4491
+bridging,Bridging ties,0,program,397,47.2292,44.2707,50.1877
+bridging,Bridging ties,3,comparison,365,46.5906,43.4437,49.7374
+bridging,Bridging ties,3,program,378,50.4997,47.4171,53.5823
+bridging,Bridging ties,6,comparison,330,46.6162,43.3094,49.9229
+bridging,Bridging ties,6,program,360,51.8364,48.5934,55.0794
+bridging,Bridging ties,12,comparison,282,47.7344,44.0485,51.4204
+bridging,Bridging ties,12,program,336,53.2407,49.9198,56.5617
+hope,Hope,0,comparison,397,77.4979,75.3176,79.6782
+hope,Hope,0,program,392,76.8707,74.6364,79.1051
+hope,Hope,3,comparison,360,76.2037,73.8375,78.5700
+hope,Hope,3,program,372,76.7025,74.3676,79.0375
+hope,Hope,6,comparison,323,75.0258,72.4738,77.5778
+hope,Hope,6,program,354,76.4595,74.1701,78.7489
+hope,Hope,12,comparison,275,75.6364,72.8803,78.3924
+hope,Hope,12,program,329,78.7234,76.3538,81.0930

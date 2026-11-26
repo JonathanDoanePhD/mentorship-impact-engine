@@ -1,0 +1,1759 @@
+pid,goal_id,domain,wave,gas_score
+P0001,G1,Wellbeing,6,1
+P0001,G1,Wellbeing,12,0
+P0001,G2,College & career,6,1
+P0001,G2,College & career,12,0
+P0003,G1,College & career,6,1
+P0003,G1,College & career,12,1
+P0003,G2,Relationships,6,1
+P0003,G2,Relationships,12,1
+P0007,G1,College & career,6,1
+P0007,G2,College & career,6,0
+P0010,G1,Relationships,6,-1
+P0010,G1,Relationships,12,0
+P0010,G2,College & career,6,0
+P0010,G2,College & career,12,0
+P0010,G3,Skills,6,-1
+P0010,G3,Skills,12,-1
+P0011,G1,Wellbeing,6,1
+P0011,G1,Wellbeing,12,1
+P0011,G2,College & career,6,0
+P0011,G2,College & career,12,1
+P0011,G3,Relationships,6,0
+P0011,G3,Relationships,12,2
+P0012,G1,Wellbeing,6,1
+P0012,G1,Wellbeing,12,-1
+P0012,G2,School,6,1
+P0012,G2,School,12,2
+P0014,G1,College & career,6,2
+P0014,G1,College & career,12,0
+P0014,G2,School,6,1
+P0014,G2,School,12,1
+P0023,G1,School,6,-2
+P0023,G1,School,12,-1
+P0023,G2,School,6,-1
+P0023,G2,School,12,0
+P0024,G1,College & career,6,0
+P0024,G1,College & career,12,-1
+P0024,G2,School,6,1
+P0024,G2,School,12,1
+P0024,G3,Skills,6,-1
+P0024,G3,Skills,12,-1
+P0028,G1,School,6,1
+P0028,G1,School,12,0
+P0028,G2,College & career,6,0
+P0028,G2,College & career,12,-1
+P0028,G3,College & career,6,1
+P0028,G3,College & career,12,0
+P0031,G1,Wellbeing,6,2
+P0031,G1,Wellbeing,12,1
+P0031,G2,College & career,6,0
+P0031,G2,College & career,12,0
+P0033,G1,School,6,0
+P0033,G2,School,6,1
+P0036,G1,School,6,-1
+P0036,G1,School,12,1
+P0036,G2,College & career,6,0
+P0036,G2,College & career,12,0
+P0038,G1,School,6,-1
+P0038,G1,School,12,0
+P0038,G2,School,6,0
+P0038,G2,School,12,1
+P0041,G1,College & career,6,1
+P0041,G1,College & career,12,2
+P0041,G2,School,6,1
+P0041,G2,School,12,-1
+P0042,G1,Skills,6,1
+P0042,G2,College & career,6,0
+P0042,G3,Wellbeing,6,-1
+P0043,G1,Wellbeing,6,-2
+P0043,G1,Wellbeing,12,-2
+P0043,G2,School,6,-1
+P0043,G2,School,12,-2
+P0043,G3,School,6,-1
+P0043,G3,School,12,-1
+P0051,G1,School,6,2
+P0051,G1,School,12,0
+P0051,G2,School,6,0
+P0051,G2,School,12,1
+P0051,G3,Relationships,6,-1
+P0051,G3,Relationships,12,1
+P0055,G1,School,6,0
+P0055,G1,School,12,-1
+P0055,G2,Wellbeing,6,2
+P0055,G2,Wellbeing,12,2
+P0055,G3,College & career,6,0
+P0055,G3,College & career,12,2
+P0057,G1,School,6,1
+P0057,G1,School,12,0
+P0057,G2,College & career,6,-1
+P0057,G2,College & career,12,-1
+P0057,G3,Skills,6,0
+P0057,G3,Skills,12,0
+P0062,G1,College & career,6,1
+P0062,G1,College & career,12,0
+P0062,G2,College & career,6,-1
+P0062,G2,College & career,12,2
+P0065,G1,Skills,6,-1
+P0065,G1,Skills,12,1
+P0065,G2,Wellbeing,6,0
+P0065,G2,Wellbeing,12,-1
+P0065,G3,Wellbeing,6,1
+P0065,G3,Wellbeing,12,0
+P0066,G1,School,6,0
+P0066,G1,School,12,-2
+P0066,G2,Relationships,6,-1
+P0066,G2,Relationships,12,0
+P0066,G3,College & career,6,0
+P0066,G3,College & career,12,-2
+P0067,G1,College & career,6,1
+P0067,G1,College & career,12,0
+P0067,G2,Relationships,6,1
+P0067,G2,Relationships,12,0
+P0067,G3,College & career,6,-1
+P0067,G3,College & career,12,0
+P0069,G1,College & career,6,2
+P0069,G1,College & career,12,2
+P0069,G2,Skills,6,0
+P0069,G2,Skills,12,1
+P0070,G1,Relationships,6,0
+P0070,G1,Relationships,12,-1
+P0070,G2,Wellbeing,6,-1
+P0070,G2,Wellbeing,12,-1
+P0070,G3,School,6,0
+P0070,G3,School,12,0
+P0072,G1,Relationships,6,-2
+P0072,G2,College & career,6,-1
+P0073,G1,Skills,6,0
+P0073,G1,Skills,12,0
+P0073,G2,Wellbeing,6,1
+P0073,G2,Wellbeing,12,-2
+P0073,G3,School,6,-1
+P0073,G3,School,12,-1
+P0074,G1,School,6,1
+P0074,G1,School,12,-1
+P0074,G2,Skills,6,1
+P0074,G2,Skills,12,0
+P0076,G1,School,6,2
+P0076,G1,School,12,0
+P0076,G2,College & career,6,-1
+P0076,G2,College & career,12,-1
+P0078,G1,College & career,6,0
+P0078,G2,College & career,6,0
+P0079,G1,School,6,0
+P0079,G1,School,12,2
+P0079,G2,College & career,6,0
+P0079,G2,College & career,12,0
+P0079,G3,College & career,6,2
+P0079,G3,College & career,12,0
+P0080,G1,College & career,6,2
+P0080,G1,College & career,12,-1
+P0080,G2,College & career,6,-2
+P0080,G2,College & career,12,-1
+P0080,G3,School,6,0
+P0080,G3,School,12,-1
+P0082,G1,College & career,6,0
+P0082,G1,College & career,12,1
+P0082,G2,College & career,6,2
+P0082,G2,College & career,12,2
+P0082,G3,School,6,2
+P0082,G3,School,12,-1
+P0085,G1,School,6,0
+P0085,G1,School,12,1
+P0085,G2,School,6,1
+P0085,G2,School,12,0
+P0086,G1,College & career,6,1
+P0086,G1,College & career,12,1
+P0086,G2,College & career,6,0
+P0086,G2,College & career,12,1
+P0086,G3,College & career,6,1
+P0086,G3,College & career,12,2
+P0088,G1,Skills,6,-1
+P0088,G2,Relationships,6,1
+P0088,G3,School,6,1
+P0089,G1,College & career,6,-2
+P0089,G1,College & career,12,-1
+P0089,G2,Wellbeing,6,0
+P0089,G2,Wellbeing,12,1
+P0089,G3,Skills,6,0
+P0089,G3,Skills,12,1
+P0091,G1,College & career,6,-1
+P0091,G1,College & career,12,0
+P0091,G2,School,6,1
+P0091,G2,School,12,-1
+P0092,G1,School,6,1
+P0092,G1,School,12,0
+P0092,G2,Relationships,6,1
+P0092,G2,Relationships,12,-1
+P0096,G1,School,6,-1
+P0096,G1,School,12,0
+P0096,G2,School,6,0
+P0096,G2,School,12,0
+P0097,G1,College & career,6,1
+P0097,G1,College & career,12,1
+P0097,G2,School,6,2
+P0097,G2,School,12,2
+P0102,G1,School,6,0
+P0102,G1,School,12,1
+P0102,G2,School,6,0
+P0102,G2,School,12,0
+P0102,G3,School,6,0
+P0102,G3,School,12,-1
+P0105,G1,School,6,0
+P0105,G1,School,12,0
+P0105,G2,Skills,6,0
+P0105,G2,Skills,12,-1
+P0108,G1,Wellbeing,6,-1
+P0108,G1,Wellbeing,12,2
+P0108,G2,Wellbeing,6,-1
+P0108,G2,Wellbeing,12,0
+P0109,G1,Skills,6,-2
+P0109,G1,Skills,12,-1
+P0109,G2,School,6,-1
+P0109,G2,School,12,1
+P0109,G3,College & career,6,-1
+P0109,G3,College & career,12,-1
+P0111,G1,College & career,6,1
+P0111,G1,College & career,12,0
+P0111,G2,College & career,6,0
+P0111,G2,College & career,12,1
+P0111,G3,School,6,-1
+P0111,G3,School,12,-1
+P0114,G1,School,6,0
+P0114,G1,School,12,2
+P0114,G2,School,6,-1
+P0114,G2,School,12,2
+P0115,G1,School,6,2
+P0115,G1,School,12,1
+P0115,G2,College & career,6,2
+P0115,G2,College & career,12,1
+P0115,G3,School,6,1
+P0115,G3,School,12,0
+P0116,G1,College & career,6,-1
+P0116,G1,College & career,12,0
+P0116,G2,College & career,6,-1
+P0116,G2,College & career,12,1
+P0116,G3,Relationships,6,1
+P0116,G3,Relationships,12,0
+P0117,G1,School,6,2
+P0117,G1,School,12,1
+P0117,G2,College & career,6,1
+P0117,G2,College & career,12,0
+P0117,G3,College & career,6,0
+P0117,G3,College & career,12,1
+P0118,G1,College & career,6,-2
+P0118,G1,College & career,12,1
+P0118,G2,School,6,0
+P0118,G2,School,12,0
+P0119,G1,School,6,0
+P0119,G1,School,12,1
+P0119,G2,College & career,6,-1
+P0119,G2,College & career,12,-1
+P0121,G1,Skills,6,0
+P0121,G1,Skills,12,0
+P0121,G2,School,6,-1
+P0121,G2,School,12,0
+P0122,G1,College & career,6,0
+P0122,G1,College & career,12,1
+P0122,G2,School,6,1
+P0122,G2,School,12,0
+P0122,G3,College & career,6,1
+P0122,G3,College & career,12,-2
+P0123,G1,School,6,-1
+P0123,G1,School,12,-1
+P0123,G2,Wellbeing,6,-1
+P0123,G2,Wellbeing,12,0
+P0129,G1,School,6,-1
+P0129,G1,School,12,0
+P0129,G2,School,6,1
+P0129,G2,School,12,1
+P0129,G3,College & career,6,-1
+P0129,G3,College & career,12,2
+P0130,G1,School,6,-1
+P0130,G1,School,12,-1
+P0130,G2,School,6,-1
+P0130,G2,School,12,-1
+P0130,G3,College & career,6,0
+P0130,G3,College & career,12,-1
+P0139,G1,Skills,6,1
+P0139,G1,Skills,12,-2
+P0139,G2,Skills,6,-1
+P0139,G2,Skills,12,-2
+P0139,G3,School,6,-1
+P0139,G3,School,12,0
+P0140,G1,Skills,6,1
+P0140,G1,Skills,12,0
+P0140,G2,School,6,1
+P0140,G2,School,12,1
+P0144,G1,School,6,0
+P0144,G1,School,12,1
+P0144,G2,School,6,0
+P0144,G2,School,12,-1
+P0144,G3,School,6,-2
+P0144,G3,School,12,0
+P0145,G1,School,6,2
+P0145,G1,School,12,0
+P0145,G2,Skills,6,-1
+P0145,G2,Skills,12,0
+P0145,G3,Skills,6,0
+P0145,G3,Skills,12,-2
+P0146,G1,School,6,-1
+P0146,G2,Wellbeing,6,-1
+P0147,G1,Wellbeing,6,0
+P0147,G1,Wellbeing,12,1
+P0147,G2,School,6,-1
+P0147,G2,School,12,0
+P0149,G1,College & career,6,1
+P0149,G1,College & career,12,0
+P0149,G2,College & career,6,-1
+P0149,G2,College & career,12,-1
+P0149,G3,School,6,-1
+P0149,G3,School,12,0
+P0150,G1,College & career,6,-2
+P0150,G1,College & career,12,1
+P0150,G2,College & career,6,0
+P0150,G2,College & career,12,-1
+P0158,G1,Skills,6,0
+P0158,G1,Skills,12,-1
+P0158,G2,School,6,-2
+P0158,G2,School,12,-2
+P0158,G3,College & career,6,0
+P0158,G3,College & career,12,1
+P0166,G1,School,6,-1
+P0166,G1,School,12,1
+P0166,G2,School,6,1
+P0166,G2,School,12,0
+P0168,G1,School,6,-1
+P0168,G1,School,12,-1
+P0168,G2,School,6,1
+P0168,G2,School,12,0
+P0168,G3,College & career,6,-1
+P0168,G3,College & career,12,-2
+P0170,G1,Wellbeing,6,0
+P0170,G1,Wellbeing,12,-1
+P0170,G2,College & career,6,0
+P0170,G2,College & career,12,-2
+P0170,G3,Wellbeing,6,-1
+P0170,G3,Wellbeing,12,0
+P0172,G1,College & career,6,-1
+P0172,G1,College & career,12,1
+P0172,G2,Wellbeing,6,0
+P0172,G2,Wellbeing,12,1
+P0172,G3,School,6,1
+P0172,G3,School,12,0
+P0174,G1,School,6,1
+P0174,G1,School,12,1
+P0174,G2,School,6,1
+P0174,G2,School,12,-1
+P0174,G3,College & career,6,0
+P0174,G3,College & career,12,1
+P0176,G1,Skills,6,0
+P0176,G1,Skills,12,0
+P0176,G2,Relationships,6,2
+P0176,G2,Relationships,12,2
+P0181,G1,Skills,6,1
+P0181,G1,Skills,12,0
+P0181,G2,School,6,2
+P0181,G2,School,12,0
+P0181,G3,School,6,0
+P0181,G3,School,12,1
+P0182,G1,Skills,6,1
+P0182,G1,Skills,12,0
+P0182,G2,Relationships,6,0
+P0182,G2,Relationships,12,1
+P0182,G3,Wellbeing,6,-1
+P0182,G3,Wellbeing,12,0
+P0183,G1,School,6,0
+P0183,G1,School,12,-1
+P0183,G2,Relationships,6,-1
+P0183,G2,Relationships,12,1
+P0183,G3,Relationships,6,-1
+P0183,G3,Relationships,12,0
+P0184,G1,Wellbeing,6,0
+P0184,G1,Wellbeing,12,2
+P0184,G2,College & career,6,1
+P0184,G2,College & career,12,1
+P0184,G3,College & career,6,1
+P0184,G3,College & career,12,-1
+P0187,G1,College & career,6,0
+P0187,G1,College & career,12,1
+P0187,G2,Skills,6,0
+P0187,G2,Skills,12,-1
+P0187,G3,School,6,-1
+P0187,G3,School,12,0
+P0189,G1,College & career,6,0
+P0189,G1,College & career,12,0
+P0189,G2,College & career,6,-1
+P0189,G2,College & career,12,2
+P0195,G1,College & career,6,0
+P0195,G1,College & career,12,1
+P0195,G2,School,6,-1
+P0195,G2,School,12,0
+P0200,G1,Wellbeing,6,-1
+P0200,G2,Skills,6,1
+P0203,G1,Relationships,6,0
+P0203,G1,Relationships,12,0
+P0203,G2,College & career,6,0
+P0203,G2,College & career,12,0
+P0203,G3,Skills,6,-1
+P0203,G3,Skills,12,0
+P0205,G1,School,6,0
+P0205,G1,School,12,1
+P0205,G2,Relationships,6,-1
+P0205,G2,Relationships,12,1
+P0208,G1,Skills,6,-2
+P0208,G2,Skills,6,-2
+P0208,G3,School,6,1
+P0212,G1,School,6,0
+P0212,G1,School,12,1
+P0212,G2,College & career,6,2
+P0212,G2,College & career,12,1
+P0215,G1,College & career,6,-1
+P0215,G1,College & career,12,-1
+P0215,G2,School,6,1
+P0215,G2,School,12,-1
+P0215,G3,College & career,6,-1
+P0215,G3,College & career,12,1
+P0216,G1,Relationships,6,0
+P0216,G1,Relationships,12,1
+P0216,G2,College & career,6,1
+P0216,G2,College & career,12,2
+P0216,G3,Wellbeing,6,1
+P0216,G3,Wellbeing,12,1
+P0218,G1,Wellbeing,6,-1
+P0218,G1,Wellbeing,12,2
+P0218,G2,College & career,6,2
+P0218,G2,College & career,12,1
+P0218,G3,College & career,6,1
+P0218,G3,College & career,12,1
+P0220,G1,College & career,6,-1
+P0220,G1,College & career,12,-1
+P0220,G2,Relationships,6,0
+P0220,G2,Relationships,12,-1
+P0220,G3,Wellbeing,6,-1
+P0220,G3,Wellbeing,12,1
+P0222,G1,Skills,6,1
+P0222,G1,Skills,12,0
+P0222,G2,School,6,0
+P0222,G2,School,12,-1
+P0222,G3,Wellbeing,6,1
+P0222,G3,Wellbeing,12,-1
+P0223,G1,College & career,6,0
+P0223,G1,College & career,12,1
+P0223,G2,Relationships,6,-1
+P0223,G2,Relationships,12,1
+P0223,G3,College & career,6,1
+P0223,G3,College & career,12,-1
+P0225,G1,School,6,2
+P0225,G1,School,12,0
+P0225,G2,Relationships,6,2
+P0225,G2,Relationships,12,1
+P0225,G3,School,6,0
+P0225,G3,School,12,1
+P0227,G1,Skills,6,0
+P0227,G1,Skills,12,1
+P0227,G2,Skills,6,-1
+P0227,G2,Skills,12,-1
+P0228,G1,College & career,6,0
+P0228,G1,College & career,12,0
+P0228,G2,School,6,0
+P0228,G2,School,12,-1
+P0229,G1,College & career,6,0
+P0229,G1,College & career,12,-1
+P0229,G2,Skills,6,-2
+P0229,G2,Skills,12,-1
+P0229,G3,School,6,-1
+P0229,G3,School,12,-1
+P0230,G1,Wellbeing,6,-2
+P0230,G1,Wellbeing,12,-1
+P0230,G2,School,6,1
+P0230,G2,School,12,-2
+P0230,G3,College & career,6,-1
+P0230,G3,College & career,12,-1
+P0232,G1,Skills,6,-1
+P0232,G2,Relationships,6,0
+P0233,G1,Relationships,6,0
+P0233,G1,Relationships,12,1
+P0233,G2,College & career,6,0
+P0233,G2,College & career,12,0
+P0234,G1,Wellbeing,6,-1
+P0234,G1,Wellbeing,12,-1
+P0234,G2,Relationships,6,1
+P0234,G2,Relationships,12,1
+P0235,G1,College & career,6,-2
+P0235,G1,College & career,12,-1
+P0235,G2,College & career,6,0
+P0235,G2,College & career,12,1
+P0236,G1,School,6,-1
+P0236,G1,School,12,1
+P0236,G2,College & career,6,1
+P0236,G2,College & career,12,0
+P0236,G3,Skills,6,0
+P0236,G3,Skills,12,0
+P0237,G1,School,6,-1
+P0237,G1,School,12,-1
+P0237,G2,Skills,6,-2
+P0237,G2,Skills,12,-2
+P0237,G3,College & career,6,0
+P0237,G3,College & career,12,0
+P0238,G1,College & career,6,-1
+P0238,G1,College & career,12,-1
+P0238,G2,College & career,6,0
+P0238,G2,College & career,12,-2
+P0238,G3,College & career,6,-1
+P0238,G3,College & career,12,-2
+P0239,G1,College & career,6,1
+P0239,G1,College & career,12,0
+P0239,G2,Skills,6,2
+P0239,G2,Skills,12,2
+P0242,G1,Relationships,6,0
+P0242,G2,Relationships,6,-1
+P0242,G3,Skills,6,-1
+P0245,G1,School,6,-1
+P0245,G1,School,12,-1
+P0245,G2,Wellbeing,6,-1
+P0245,G2,Wellbeing,12,-1
+P0245,G3,College & career,6,0
+P0245,G3,College & career,12,0
+P0246,G1,Skills,6,1
+P0246,G1,Skills,12,1
+P0246,G2,Skills,6,-1
+P0246,G2,Skills,12,2
+P0246,G3,College & career,6,2
+P0246,G3,College & career,12,2
+P0251,G1,Relationships,6,2
+P0251,G1,Relationships,12,2
+P0251,G2,School,6,1
+P0251,G2,School,12,1
+P0254,G1,School,6,1
+P0254,G1,School,12,1
+P0254,G2,School,6,-1
+P0254,G2,School,12,0
+P0254,G3,College & career,6,-1
+P0254,G3,College & career,12,1
+P0255,G1,College & career,6,0
+P0255,G1,College & career,12,-1
+P0255,G2,Relationships,6,-1
+P0255,G2,Relationships,12,0
+P0255,G3,College & career,6,0
+P0255,G3,College & career,12,-2
+P0258,G1,Skills,6,0
+P0258,G1,Skills,12,-2
+P0258,G2,College & career,6,0
+P0258,G2,College & career,12,1
+P0258,G3,College & career,6,0
+P0258,G3,College & career,12,-2
+P0260,G1,College & career,6,0
+P0260,G1,College & career,12,1
+P0260,G2,Relationships,6,0
+P0260,G2,Relationships,12,-1
+P0260,G3,Skills,6,1
+P0260,G3,Skills,12,1
+P0261,G1,School,6,-2
+P0261,G1,School,12,-1
+P0261,G2,Skills,6,1
+P0261,G2,Skills,12,0
+P0264,G1,School,6,1
+P0264,G1,School,12,1
+P0264,G2,School,6,-1
+P0264,G2,School,12,1
+P0265,G1,College & career,6,0
+P0265,G1,College & career,12,1
+P0265,G2,Wellbeing,6,0
+P0265,G2,Wellbeing,12,1
+P0265,G3,Wellbeing,6,1
+P0265,G3,Wellbeing,12,-1
+P0266,G1,College & career,6,0
+P0266,G1,College & career,12,0
+P0266,G2,College & career,6,1
+P0266,G2,College & career,12,1
+P0266,G3,Wellbeing,6,0
+P0266,G3,Wellbeing,12,2
+P0267,G1,College & career,6,1
+P0267,G1,College & career,12,2
+P0267,G2,Wellbeing,6,0
+P0267,G2,Wellbeing,12,0
+P0268,G1,School,6,1
+P0268,G1,School,12,0
+P0268,G2,College & career,6,0
+P0268,G2,College & career,12,2
+P0273,G1,Relationships,6,0
+P0273,G1,Relationships,12,-2
+P0273,G2,School,6,0
+P0273,G2,School,12,-1
+P0274,G1,College & career,6,0
+P0274,G1,College & career,12,0
+P0274,G2,Wellbeing,6,0
+P0274,G2,Wellbeing,12,1
+P0277,G1,Skills,6,1
+P0277,G1,Skills,12,0
+P0277,G2,Relationships,6,2
+P0277,G2,Relationships,12,1
+P0277,G3,Relationships,6,-1
+P0277,G3,Relationships,12,0
+P0280,G1,School,6,0
+P0280,G1,School,12,0
+P0280,G2,School,6,0
+P0280,G2,School,12,-1
+P0286,G1,School,6,-1
+P0286,G1,School,12,-1
+P0286,G2,School,6,-1
+P0286,G2,School,12,0
+P0288,G1,Relationships,6,0
+P0288,G1,Relationships,12,-1
+P0288,G2,School,6,0
+P0288,G2,School,12,1
+P0288,G3,College & career,6,2
+P0288,G3,College & career,12,1
+P0293,G1,Relationships,6,0
+P0293,G1,Relationships,12,2
+P0293,G2,School,6,-1
+P0293,G2,School,12,0
+P0294,G1,School,6,1
+P0294,G1,School,12,-1
+P0294,G2,School,6,0
+P0294,G2,School,12,-1
+P0295,G1,Skills,6,0
+P0295,G1,Skills,12,0
+P0295,G2,College & career,6,0
+P0295,G2,College & career,12,-1
+P0295,G3,School,6,-1
+P0295,G3,School,12,-1
+P0297,G1,Skills,6,0
+P0297,G1,Skills,12,1
+P0297,G2,College & career,6,-2
+P0297,G2,College & career,12,0
+P0297,G3,Skills,6,0
+P0297,G3,Skills,12,1
+P0299,G1,College & career,6,1
+P0299,G1,College & career,12,0
+P0299,G2,Wellbeing,6,-1
+P0299,G2,Wellbeing,12,0
+P0299,G3,Wellbeing,6,-1
+P0299,G3,Wellbeing,12,-1
+P0304,G1,Relationships,6,-2
+P0304,G1,Relationships,12,1
+P0304,G2,School,6,-1
+P0304,G2,School,12,2
+P0309,G1,Wellbeing,6,-2
+P0309,G1,Wellbeing,12,-1
+P0309,G2,Skills,6,0
+P0309,G2,Skills,12,-1
+P0312,G1,College & career,6,1
+P0312,G1,College & career,12,-2
+P0312,G2,School,6,0
+P0312,G2,School,12,-1
+P0312,G3,College & career,6,0
+P0312,G3,College & career,12,-1
+P0316,G1,College & career,6,1
+P0316,G1,College & career,12,-1
+P0316,G2,School,6,1
+P0316,G2,School,12,0
+P0317,G1,Wellbeing,6,1
+P0317,G1,Wellbeing,12,1
+P0317,G2,School,6,2
+P0317,G2,School,12,2
+P0318,G1,Skills,6,1
+P0318,G2,Relationships,6,-2
+P0318,G3,College & career,6,1
+P0319,G1,College & career,6,1
+P0319,G1,College & career,12,1
+P0319,G2,School,6,1
+P0319,G2,School,12,1
+P0319,G3,College & career,6,0
+P0319,G3,College & career,12,2
+P0320,G1,Wellbeing,6,0
+P0320,G1,Wellbeing,12,0
+P0320,G2,School,6,0
+P0320,G2,School,12,1
+P0322,G1,College & career,6,-1
+P0322,G1,College & career,12,-1
+P0322,G2,School,6,-1
+P0322,G2,School,12,0
+P0322,G3,Relationships,6,-1
+P0322,G3,Relationships,12,1
+P0326,G1,School,6,-1
+P0326,G1,School,12,1
+P0326,G2,Relationships,6,1
+P0326,G2,Relationships,12,2
+P0327,G1,Wellbeing,6,1
+P0327,G2,Wellbeing,6,0
+P0327,G3,Relationships,6,0
+P0328,G1,Relationships,6,-1
+P0328,G1,Relationships,12,-1
+P0328,G2,College & career,6,1
+P0328,G2,College & career,12,-2
+P0332,G1,School,6,1
+P0332,G1,School,12,1
+P0332,G2,Wellbeing,6,1
+P0332,G2,Wellbeing,12,1
+P0332,G3,College & career,6,2
+P0332,G3,College & career,12,2
+P0333,G1,Wellbeing,6,-1
+P0333,G1,Wellbeing,12,0
+P0333,G2,College & career,6,0
+P0333,G2,College & career,12,2
+P0333,G3,School,6,1
+P0333,G3,School,12,0
+P0334,G1,College & career,6,0
+P0334,G1,College & career,12,0
+P0334,G2,College & career,6,1
+P0334,G2,College & career,12,0
+P0334,G3,School,6,-2
+P0334,G3,School,12,0
+P0335,G1,College & career,6,0
+P0335,G1,College & career,12,-1
+P0335,G2,School,6,0
+P0335,G2,School,12,-1
+P0335,G3,Wellbeing,6,-2
+P0335,G3,Wellbeing,12,2
+P0337,G1,Skills,6,0
+P0337,G1,Skills,12,1
+P0337,G2,College & career,6,-2
+P0337,G2,College & career,12,0
+P0337,G3,Wellbeing,6,-1
+P0337,G3,Wellbeing,12,0
+P0338,G1,School,6,-1
+P0338,G1,School,12,0
+P0338,G2,Relationships,6,1
+P0338,G2,Relationships,12,0
+P0338,G3,School,6,0
+P0338,G3,School,12,1
+P0339,G1,School,6,1
+P0339,G1,School,12,-2
+P0339,G2,Skills,6,-1
+P0339,G2,Skills,12,-1
+P0339,G3,College & career,6,-1
+P0339,G3,College & career,12,-1
+P0343,G1,Wellbeing,6,1
+P0343,G1,Wellbeing,12,0
+P0343,G2,School,6,0
+P0343,G2,School,12,-1
+P0343,G3,School,6,-1
+P0343,G3,School,12,1
+P0344,G1,College & career,6,2
+P0344,G1,College & career,12,0
+P0344,G2,School,6,1
+P0344,G2,School,12,1
+P0344,G3,Wellbeing,6,-1
+P0344,G3,Wellbeing,12,0
+P0347,G1,School,6,0
+P0347,G1,School,12,-1
+P0347,G2,School,6,1
+P0347,G2,School,12,-1
+P0347,G3,Wellbeing,6,0
+P0347,G3,Wellbeing,12,0
+P0351,G1,Wellbeing,6,0
+P0351,G1,Wellbeing,12,1
+P0351,G2,College & career,6,1
+P0351,G2,College & career,12,2
+P0351,G3,School,6,2
+P0351,G3,School,12,0
+P0352,G1,College & career,6,-2
+P0352,G1,College & career,12,-2
+P0352,G2,Relationships,6,-1
+P0352,G2,Relationships,12,1
+P0362,G1,College & career,6,0
+P0362,G1,College & career,12,0
+P0362,G2,School,6,-1
+P0362,G2,School,12,0
+P0362,G3,School,6,-1
+P0362,G3,School,12,-1
+P0365,G1,Skills,6,0
+P0365,G1,Skills,12,1
+P0365,G2,Skills,6,-1
+P0365,G2,Skills,12,1
+P0366,G1,School,6,1
+P0366,G1,School,12,0
+P0366,G2,School,6,2
+P0366,G2,School,12,1
+P0367,G1,Wellbeing,6,2
+P0367,G1,Wellbeing,12,1
+P0367,G2,College & career,6,-1
+P0367,G2,College & career,12,1
+P0368,G1,College & career,6,1
+P0368,G1,College & career,12,0
+P0368,G2,School,6,0
+P0368,G2,School,12,-1
+P0369,G1,Skills,6,0
+P0369,G1,Skills,12,-1
+P0369,G2,School,6,1
+P0369,G2,School,12,1
+P0369,G3,Relationships,6,0
+P0369,G3,Relationships,12,2
+P0374,G1,School,6,0
+P0374,G1,School,12,1
+P0374,G2,School,6,0
+P0374,G2,School,12,0
+P0375,G1,School,6,0
+P0375,G1,School,12,1
+P0375,G2,School,6,0
+P0375,G2,School,12,0
+P0375,G3,School,6,1
+P0375,G3,School,12,1
+P0376,G1,College & career,6,0
+P0376,G2,College & career,6,1
+P0377,G1,School,6,2
+P0377,G1,School,12,0
+P0377,G2,Skills,6,0
+P0377,G2,Skills,12,-1
+P0377,G3,Relationships,6,-1
+P0377,G3,Relationships,12,1
+P0381,G1,Skills,6,-2
+P0381,G1,Skills,12,-1
+P0381,G2,Wellbeing,6,-2
+P0381,G2,Wellbeing,12,1
+P0381,G3,College & career,6,-1
+P0381,G3,College & career,12,0
+P0383,G1,Wellbeing,6,0
+P0383,G1,Wellbeing,12,2
+P0383,G2,Relationships,6,-2
+P0383,G2,Relationships,12,-1
+P0384,G1,Wellbeing,6,0
+P0384,G1,Wellbeing,12,0
+P0384,G2,Wellbeing,6,0
+P0384,G2,Wellbeing,12,-1
+P0385,G1,Relationships,6,0
+P0385,G1,Relationships,12,-1
+P0385,G2,School,6,0
+P0385,G2,School,12,0
+P0385,G3,Relationships,6,-1
+P0385,G3,Relationships,12,0
+P0386,G1,School,6,-2
+P0386,G1,School,12,2
+P0386,G2,College & career,6,1
+P0386,G2,College & career,12,2
+P0386,G3,Skills,6,2
+P0386,G3,Skills,12,-1
+P0387,G1,School,6,1
+P0387,G1,School,12,1
+P0387,G2,School,6,0
+P0387,G2,School,12,1
+P0388,G1,College & career,6,-1
+P0388,G1,College & career,12,0
+P0388,G2,School,6,0
+P0388,G2,School,12,0
+P0390,G1,School,6,1
+P0390,G1,School,12,0
+P0390,G2,College & career,6,-2
+P0390,G2,College & career,12,1
+P0391,G1,College & career,6,1
+P0391,G1,College & career,12,1
+P0391,G2,School,6,-1
+P0391,G2,School,12,-1
+P0391,G3,College & career,6,-1
+P0391,G3,College & career,12,0
+P0393,G1,School,6,0
+P0393,G1,School,12,0
+P0393,G2,Skills,6,-2
+P0393,G2,Skills,12,0
+P0393,G3,Wellbeing,6,-1
+P0393,G3,Wellbeing,12,-2
+P0394,G1,Relationships,6,0
+P0394,G1,Relationships,12,1
+P0394,G2,Skills,6,1
+P0394,G2,Skills,12,1
+P0396,G1,School,6,-1
+P0396,G1,School,12,0
+P0396,G2,College & career,6,0
+P0396,G2,College & career,12,2
+P0396,G3,College & career,6,-1
+P0396,G3,College & career,12,2
+P0397,G1,College & career,6,-2
+P0397,G1,College & career,12,0
+P0397,G2,Skills,6,1
+P0397,G2,Skills,12,0
+P0397,G3,Relationships,6,2
+P0397,G3,Relationships,12,0
+P0402,G1,Wellbeing,6,1
+P0402,G1,Wellbeing,12,1
+P0402,G2,Relationships,6,0
+P0402,G2,Relationships,12,0
+P0402,G3,School,6,-1
+P0402,G3,School,12,0
+P0407,G1,Relationships,6,2
+P0407,G1,Relationships,12,2
+P0407,G2,School,6,0
+P0407,G2,School,12,1
+P0407,G3,Skills,6,1
+P0407,G3,Skills,12,1
+P0410,G1,College & career,6,0
+P0410,G1,College & career,12,-1
+P0410,G2,School,6,-2
+P0410,G2,School,12,1
+P0410,G3,Skills,6,0
+P0410,G3,Skills,12,-1
+P0411,G1,College & career,6,0
+P0411,G2,School,6,0
+P0411,G3,College & career,6,0
+P0413,G1,Wellbeing,6,-1
+P0413,G2,School,6,2
+P0413,G3,College & career,6,1
+P0415,G1,College & career,6,1
+P0415,G1,College & career,12,0
+P0415,G2,Relationships,6,-1
+P0415,G2,Relationships,12,1
+P0416,G1,Skills,6,1
+P0416,G1,Skills,12,0
+P0416,G2,School,6,0
+P0416,G2,School,12,1
+P0420,G1,School,6,1
+P0420,G1,School,12,-2
+P0420,G2,School,6,1
+P0420,G2,School,12,0
+P0421,G1,College & career,6,0
+P0421,G1,College & career,12,0
+P0421,G2,Relationships,6,0
+P0421,G2,Relationships,12,0
+P0422,G1,College & career,6,0
+P0422,G1,College & career,12,0
+P0422,G2,College & career,6,0
+P0422,G2,College & career,12,1
+P0424,G1,College & career,6,-1
+P0424,G1,College & career,12,0
+P0424,G2,Skills,6,1
+P0424,G2,Skills,12,0
+P0424,G3,College & career,6,0
+P0424,G3,College & career,12,1
+P0425,G1,School,6,1
+P0425,G2,Relationships,6,0
+P0425,G3,School,6,0
+P0426,G1,College & career,6,-2
+P0426,G1,College & career,12,1
+P0426,G2,College & career,6,0
+P0426,G2,College & career,12,0
+P0426,G3,College & career,6,-1
+P0426,G3,College & career,12,1
+P0427,G1,Wellbeing,6,0
+P0427,G1,Wellbeing,12,-1
+P0427,G2,Skills,6,1
+P0427,G2,Skills,12,-1
+P0430,G1,College & career,6,-1
+P0430,G1,College & career,12,-1
+P0430,G2,College & career,6,1
+P0430,G2,College & career,12,-1
+P0430,G3,School,6,-1
+P0430,G3,School,12,0
+P0433,G1,School,6,-1
+P0433,G1,School,12,2
+P0433,G2,Relationships,6,2
+P0433,G2,Relationships,12,2
+P0433,G3,Wellbeing,6,1
+P0433,G3,Wellbeing,12,2
+P0435,G1,School,6,-1
+P0435,G1,School,12,-1
+P0435,G2,College & career,6,-1
+P0435,G2,College & career,12,0
+P0435,G3,College & career,6,1
+P0435,G3,College & career,12,-1
+P0437,G1,Skills,6,0
+P0437,G1,Skills,12,0
+P0437,G2,Wellbeing,6,1
+P0437,G2,Wellbeing,12,0
+P0437,G3,School,6,-1
+P0437,G3,School,12,0
+P0439,G1,Relationships,6,1
+P0439,G1,Relationships,12,2
+P0439,G2,College & career,6,0
+P0439,G2,College & career,12,2
+P0439,G3,Skills,6,2
+P0439,G3,Skills,12,0
+P0440,G1,Skills,6,0
+P0440,G1,Skills,12,-1
+P0440,G2,School,6,-1
+P0440,G2,School,12,-1
+P0440,G3,Wellbeing,6,0
+P0440,G3,Wellbeing,12,-1
+P0442,G1,School,6,-1
+P0442,G1,School,12,-2
+P0442,G2,School,6,-1
+P0442,G2,School,12,-1
+P0442,G3,School,6,-2
+P0442,G3,School,12,0
+P0443,G1,College & career,6,-1
+P0443,G1,College & career,12,2
+P0443,G2,College & career,6,-2
+P0443,G2,College & career,12,-1
+P0443,G3,School,6,-1
+P0443,G3,School,12,0
+P0445,G1,College & career,6,2
+P0445,G1,College & career,12,-1
+P0445,G2,School,6,-1
+P0445,G2,School,12,2
+P0446,G1,Wellbeing,6,-1
+P0446,G1,Wellbeing,12,1
+P0446,G2,School,6,-1
+P0446,G2,School,12,1
+P0446,G3,Relationships,6,0
+P0446,G3,Relationships,12,1
+P0447,G1,College & career,6,0
+P0447,G1,College & career,12,0
+P0447,G2,College & career,6,-1
+P0447,G2,College & career,12,0
+P0448,G1,College & career,6,-1
+P0448,G1,College & career,12,0
+P0448,G2,Wellbeing,6,-1
+P0448,G2,Wellbeing,12,1
+P0448,G3,Wellbeing,6,1
+P0448,G3,Wellbeing,12,2
+P0450,G1,Wellbeing,6,-1
+P0450,G1,Wellbeing,12,-1
+P0450,G2,School,6,-2
+P0450,G2,School,12,1
+P0452,G1,Wellbeing,6,-1
+P0452,G1,Wellbeing,12,-2
+P0452,G2,Skills,6,-1
+P0452,G2,Skills,12,0
+P0452,G3,Skills,6,0
+P0452,G3,Skills,12,-2
+P0454,G1,Relationships,6,-1
+P0454,G1,Relationships,12,0
+P0454,G2,Wellbeing,6,-2
+P0454,G2,Wellbeing,12,1
+P0454,G3,College & career,6,-2
+P0454,G3,College & career,12,1
+P0455,G1,College & career,6,0
+P0455,G1,College & career,12,1
+P0455,G2,Wellbeing,6,0
+P0455,G2,Wellbeing,12,1
+P0456,G1,School,6,0
+P0456,G1,School,12,0
+P0456,G2,School,6,1
+P0456,G2,School,12,1
+P0457,G1,College & career,6,-2
+P0457,G1,College & career,12,0
+P0457,G2,School,6,0
+P0457,G2,School,12,0
+P0457,G3,School,6,0
+P0457,G3,School,12,0
+P0459,G1,College & career,6,0
+P0459,G1,College & career,12,2
+P0459,G2,College & career,6,0
+P0459,G2,College & career,12,2
+P0459,G3,Wellbeing,6,0
+P0459,G3,Wellbeing,12,1
+P0462,G1,College & career,6,-1
+P0462,G1,College & career,12,-2
+P0462,G2,Wellbeing,6,1
+P0462,G2,Wellbeing,12,-2
+P0465,G1,Wellbeing,6,2
+P0465,G1,Wellbeing,12,0
+P0465,G2,College & career,6,0
+P0465,G2,College & career,12,0
+P0465,G3,College & career,6,0
+P0465,G3,College & career,12,1
+P0466,G1,College & career,6,-2
+P0466,G1,College & career,12,-2
+P0466,G2,School,6,-2
+P0466,G2,School,12,0
+P0466,G3,School,6,-1
+P0466,G3,School,12,-1
+P0469,G1,Skills,6,1
+P0469,G1,Skills,12,1
+P0469,G2,Skills,6,2
+P0469,G2,Skills,12,0
+P0470,G1,School,6,-2
+P0470,G1,School,12,-2
+P0470,G2,School,6,-1
+P0470,G2,School,12,-2
+P0470,G3,Skills,6,0
+P0470,G3,Skills,12,-1
+P0471,G1,Skills,6,0
+P0471,G1,Skills,12,1
+P0471,G2,School,6,0
+P0471,G2,School,12,0
+P0472,G1,School,6,0
+P0472,G1,School,12,-1
+P0472,G2,Relationships,6,0
+P0472,G2,Relationships,12,0
+P0473,G1,College & career,6,-1
+P0473,G1,College & career,12,-1
+P0473,G2,Skills,6,1
+P0473,G2,Skills,12,0
+P0473,G3,School,6,1
+P0473,G3,School,12,0
+P0475,G1,School,6,2
+P0475,G1,School,12,1
+P0475,G2,Skills,6,2
+P0475,G2,Skills,12,0
+P0475,G3,School,6,0
+P0475,G3,School,12,-1
+P0477,G1,School,6,-2
+P0477,G1,School,12,0
+P0477,G2,Wellbeing,6,-1
+P0477,G2,Wellbeing,12,0
+P0478,G1,Skills,6,-2
+P0478,G1,Skills,12,1
+P0478,G2,Skills,6,0
+P0478,G2,Skills,12,-1
+P0478,G3,School,6,0
+P0478,G3,School,12,1
+P0479,G1,School,6,1
+P0479,G1,School,12,2
+P0479,G2,College & career,6,1
+P0479,G2,College & career,12,0
+P0480,G1,College & career,6,0
+P0480,G1,College & career,12,-1
+P0480,G2,College & career,6,1
+P0480,G2,College & career,12,0
+P0480,G3,School,6,1
+P0480,G3,School,12,0
+P0481,G1,College & career,6,1
+P0481,G1,College & career,12,1
+P0481,G2,Skills,6,0
+P0481,G2,Skills,12,1
+P0481,G3,School,6,2
+P0481,G3,School,12,1
+P0482,G1,School,6,1
+P0482,G1,School,12,1
+P0482,G2,School,6,-1
+P0482,G2,School,12,1
+P0482,G3,Wellbeing,6,0
+P0482,G3,Wellbeing,12,1
+P0488,G1,Relationships,6,-2
+P0488,G1,Relationships,12,0
+P0488,G2,College & career,6,-1
+P0488,G2,College & career,12,0
+P0488,G3,School,6,1
+P0488,G3,School,12,2
+P0489,G1,College & career,6,2
+P0489,G1,College & career,12,1
+P0489,G2,School,6,0
+P0489,G2,School,12,0
+P0489,G3,Wellbeing,6,2
+P0489,G3,Wellbeing,12,1
+P0491,G1,Relationships,6,1
+P0491,G1,Relationships,12,-1
+P0491,G2,Relationships,6,-1
+P0491,G2,Relationships,12,-1
+P0493,G1,School,6,1
+P0493,G1,School,12,1
+P0493,G2,Wellbeing,6,1
+P0493,G2,Wellbeing,12,2
+P0493,G3,Wellbeing,6,1
+P0493,G3,Wellbeing,12,1
+P0495,G1,College & career,6,2
+P0495,G1,College & career,12,2
+P0495,G2,College & career,6,1
+P0495,G2,College & career,12,0
+P0495,G3,School,6,0
+P0495,G3,School,12,1
+P0500,G1,School,6,-1
+P0500,G1,School,12,-2
+P0500,G2,School,6,-2
+P0500,G2,School,12,0
+P0500,G3,Skills,6,2
+P0500,G3,Skills,12,1
+P0501,G1,School,6,1
+P0501,G1,School,12,1
+P0501,G2,School,6,-1
+P0501,G2,School,12,0
+P0501,G3,College & career,6,-1
+P0501,G3,College & career,12,-1
+P0504,G1,School,6,0
+P0504,G1,School,12,0
+P0504,G2,Skills,6,-1
+P0504,G2,Skills,12,-1
+P0508,G1,College & career,6,0
+P0508,G1,College & career,12,1
+P0508,G2,School,6,0
+P0508,G2,School,12,0
+P0508,G3,Relationships,6,0
+P0508,G3,Relationships,12,1
+P0510,G1,Skills,6,-2
+P0510,G1,Skills,12,-2
+P0510,G2,College & career,6,-1
+P0510,G2,College & career,12,-1
+P0510,G3,College & career,6,-1
+P0510,G3,College & career,12,-1
+P0512,G1,School,6,0
+P0512,G2,Relationships,6,0
+P0517,G1,School,6,0
+P0517,G1,School,12,-1
+P0517,G2,Wellbeing,6,1
+P0517,G2,Wellbeing,12,1
+P0517,G3,College & career,6,1
+P0517,G3,College & career,12,-1
+P0518,G1,College & career,6,0
+P0518,G1,College & career,12,1
+P0518,G2,College & career,6,-1
+P0518,G2,College & career,12,-1
+P0520,G1,School,6,0
+P0520,G1,School,12,0
+P0520,G2,College & career,6,2
+P0520,G2,College & career,12,-1
+P0520,G3,Wellbeing,6,2
+P0520,G3,Wellbeing,12,1
+P0524,G1,College & career,6,2
+P0524,G1,College & career,12,0
+P0524,G2,College & career,6,-1
+P0524,G2,College & career,12,1
+P0526,G1,School,6,1
+P0526,G1,School,12,0
+P0526,G2,College & career,6,1
+P0526,G2,College & career,12,1
+P0531,G1,School,6,2
+P0531,G1,School,12,0
+P0531,G2,College & career,6,0
+P0531,G2,College & career,12,1
+P0533,G1,School,6,0
+P0533,G1,School,12,-2
+P0533,G2,School,6,-1
+P0533,G2,School,12,-1
+P0534,G1,Skills,6,1
+P0534,G1,Skills,12,-2
+P0534,G2,School,6,1
+P0534,G2,School,12,2
+P0535,G1,College & career,6,1
+P0535,G1,College & career,12,-1
+P0535,G2,College & career,6,0
+P0535,G2,College & career,12,-2
+P0535,G3,College & career,6,-1
+P0535,G3,College & career,12,-1
+P0537,G1,School,6,0
+P0537,G1,School,12,0
+P0537,G2,Skills,6,0
+P0537,G2,Skills,12,-1
+P0537,G3,School,6,0
+P0537,G3,School,12,0
+P0538,G1,College & career,6,1
+P0538,G2,College & career,6,2
+P0538,G3,School,6,0
+P0542,G1,Relationships,6,2
+P0542,G1,Relationships,12,-1
+P0542,G2,Wellbeing,6,1
+P0542,G2,Wellbeing,12,0
+P0542,G3,Wellbeing,6,0
+P0542,G3,Wellbeing,12,1
+P0543,G1,College & career,6,1
+P0543,G1,College & career,12,0
+P0543,G2,College & career,6,0
+P0543,G2,College & career,12,1
+P0546,G1,Relationships,6,0
+P0546,G1,Relationships,12,0
+P0546,G2,School,6,-1
+P0546,G2,School,12,1
+P0548,G1,College & career,6,0
+P0548,G1,College & career,12,0
+P0548,G2,Relationships,6,-2
+P0548,G2,Relationships,12,-2
+P0548,G3,College & career,6,-1
+P0548,G3,College & career,12,-1
+P0551,G1,Wellbeing,6,-2
+P0551,G1,Wellbeing,12,-2
+P0551,G2,School,6,0
+P0551,G2,School,12,0
+P0552,G1,College & career,6,1
+P0552,G1,College & career,12,1
+P0552,G2,College & career,6,0
+P0552,G2,College & career,12,0
+P0552,G3,School,6,0
+P0552,G3,School,12,0
+P0556,G1,College & career,6,1
+P0556,G1,College & career,12,0
+P0556,G2,Wellbeing,6,1
+P0556,G2,Wellbeing,12,1
+P0556,G3,College & career,6,1
+P0556,G3,College & career,12,0
+P0557,G1,School,6,1
+P0557,G1,School,12,1
+P0557,G2,School,6,0
+P0557,G2,School,12,0
+P0562,G1,Skills,6,-1
+P0562,G1,Skills,12,-2
+P0562,G2,Skills,6,-1
+P0562,G2,Skills,12,-1
+P0564,G1,School,6,0
+P0564,G1,School,12,-2
+P0564,G2,School,6,-1
+P0564,G2,School,12,-2
+P0567,G1,Relationships,6,1
+P0567,G1,Relationships,12,1
+P0567,G2,College & career,6,-2
+P0567,G2,College & career,12,-1
+P0570,G1,School,6,-1
+P0570,G1,School,12,1
+P0570,G2,College & career,6,1
+P0570,G2,College & career,12,0
+P0571,G1,Relationships,6,-2
+P0571,G1,Relationships,12,0
+P0571,G2,School,6,0
+P0571,G2,School,12,-1
+P0571,G3,Wellbeing,6,-1
+P0571,G3,Wellbeing,12,1
+P0573,G1,College & career,6,0
+P0573,G1,College & career,12,0
+P0573,G2,College & career,6,1
+P0573,G2,College & career,12,0
+P0573,G3,Skills,6,0
+P0573,G3,Skills,12,-1
+P0575,G1,College & career,6,2
+P0575,G1,College & career,12,2
+P0575,G2,College & career,6,0
+P0575,G2,College & career,12,-1
+P0575,G3,College & career,6,-2
+P0575,G3,College & career,12,1
+P0580,G1,Skills,6,-2
+P0580,G1,Skills,12,0
+P0580,G2,Skills,6,1
+P0580,G2,Skills,12,0
+P0580,G3,Skills,6,0
+P0580,G3,Skills,12,-1
+P0581,G1,College & career,6,0
+P0581,G1,College & career,12,0
+P0581,G2,School,6,1
+P0581,G2,School,12,1
+P0582,G1,School,6,0
+P0582,G1,School,12,1
+P0582,G2,School,6,2
+P0582,G2,School,12,1
+P0584,G1,Wellbeing,6,-1
+P0584,G1,Wellbeing,12,1
+P0584,G2,Skills,6,1
+P0584,G2,Skills,12,0
+P0584,G3,Skills,6,0
+P0584,G3,Skills,12,-1
+P0587,G1,School,6,2
+P0587,G1,School,12,1
+P0587,G2,Wellbeing,6,0
+P0587,G2,Wellbeing,12,2
+P0589,G1,College & career,6,2
+P0589,G1,College & career,12,1
+P0589,G2,College & career,6,2
+P0589,G2,College & career,12,0
+P0590,G1,College & career,6,1
+P0590,G1,College & career,12,0
+P0590,G2,School,6,-1
+P0590,G2,School,12,0
+P0590,G3,Wellbeing,6,0
+P0590,G3,Wellbeing,12,0
+P0592,G1,College & career,6,0
+P0592,G1,College & career,12,-1
+P0592,G2,College & career,6,-1
+P0592,G2,College & career,12,1
+P0593,G1,College & career,6,1
+P0593,G1,College & career,12,1
+P0593,G2,School,6,0
+P0593,G2,School,12,1
+P0594,G1,College & career,6,0
+P0594,G1,College & career,12,0
+P0594,G2,College & career,6,1
+P0594,G2,College & career,12,0
+P0597,G1,School,6,1
+P0597,G1,School,12,1
+P0597,G2,Skills,6,1
+P0597,G2,Skills,12,0
+P0600,G1,School,6,-1
+P0600,G1,School,12,0
+P0600,G2,Skills,6,-1
+P0600,G2,Skills,12,-1
+P0601,G1,Skills,6,0
+P0601,G1,Skills,12,-1
+P0601,G2,Skills,6,0
+P0601,G2,Skills,12,1
+P0601,G3,College & career,6,1
+P0601,G3,College & career,12,-2
+P0602,G1,Skills,6,0
+P0602,G1,Skills,12,2
+P0602,G2,College & career,6,0
+P0602,G2,College & career,12,1
+P0603,G1,School,6,2
+P0603,G1,School,12,1
+P0603,G2,School,6,1
+P0603,G2,School,12,2
+P0604,G1,Wellbeing,6,1
+P0604,G1,Wellbeing,12,-2
+P0604,G2,Relationships,6,1
+P0604,G2,Relationships,12,-1
+P0607,G1,School,6,1
+P0607,G1,School,12,2
+P0607,G2,College & career,6,1
+P0607,G2,College & career,12,0
+P0609,G1,Wellbeing,6,-1
+P0609,G1,Wellbeing,12,0
+P0609,G2,Relationships,6,-2
+P0609,G2,Relationships,12,1
+P0610,G1,Relationships,6,0
+P0610,G1,Relationships,12,1
+P0610,G2,College & career,6,0
+P0610,G2,College & career,12,-1
+P0611,G1,Relationships,6,-1
+P0611,G1,Relationships,12,0
+P0611,G2,College & career,6,0
+P0611,G2,College & career,12,1
+P0614,G1,Skills,6,1
+P0614,G1,Skills,12,1
+P0614,G2,Relationships,6,-1
+P0614,G2,Relationships,12,0
+P0614,G3,School,6,0
+P0614,G3,School,12,2
+P0615,G1,School,6,0
+P0615,G1,School,12,0
+P0615,G2,Skills,6,-1
+P0615,G2,Skills,12,1
+P0617,G1,Skills,6,0
+P0617,G1,Skills,12,2
+P0617,G2,School,6,1
+P0617,G2,School,12,0
+P0617,G3,School,6,2
+P0617,G3,School,12,1
+P0621,G1,College & career,6,0
+P0621,G1,College & career,12,-1
+P0621,G2,College & career,6,-1
+P0621,G2,College & career,12,0
+P0621,G3,School,6,-1
+P0621,G3,School,12,-2
+P0624,G1,College & career,6,0
+P0624,G1,College & career,12,0
+P0624,G2,Skills,6,-2
+P0624,G2,Skills,12,0
+P0625,G1,School,6,2
+P0625,G1,School,12,1
+P0625,G2,College & career,6,0
+P0625,G2,College & career,12,-1
+P0627,G1,School,6,-1
+P0627,G1,School,12,0
+P0627,G2,College & career,6,1
+P0627,G2,College & career,12,2
+P0630,G1,College & career,6,-1
+P0630,G1,College & career,12,0
+P0630,G2,School,6,-1
+P0630,G2,School,12,-1
+P0630,G3,Wellbeing,6,0
+P0630,G3,Wellbeing,12,1
+P0631,G1,Skills,6,-1
+P0631,G1,Skills,12,1
+P0631,G2,College & career,6,-1
+P0631,G2,College & career,12,-2
+P0631,G3,School,6,-2
+P0631,G3,School,12,0
+P0635,G1,College & career,6,0
+P0635,G1,College & career,12,1
+P0635,G2,College & career,6,2
+P0635,G2,College & career,12,2
+P0636,G1,Skills,6,1
+P0636,G1,Skills,12,2
+P0636,G2,School,6,0
+P0636,G2,School,12,2
+P0639,G1,School,6,0
+P0639,G1,School,12,1
+P0639,G2,Relationships,6,2
+P0639,G2,Relationships,12,2
+P0639,G3,School,6,1
+P0639,G3,School,12,-1
+P0641,G1,School,6,1
+P0641,G1,School,12,-1
+P0641,G2,School,6,0
+P0641,G2,School,12,0
+P0643,G1,School,6,0
+P0643,G1,School,12,0
+P0643,G2,Skills,6,-1
+P0643,G2,Skills,12,2
+P0643,G3,College & career,6,-1
+P0643,G3,College & career,12,0
+P0644,G1,College & career,6,-2
+P0644,G1,College & career,12,0
+P0644,G2,School,6,0
+P0644,G2,School,12,-2
+P0644,G3,College & career,6,0
+P0644,G3,College & career,12,0
+P0646,G1,Skills,6,-1
+P0646,G1,Skills,12,0
+P0646,G2,Relationships,6,0
+P0646,G2,Relationships,12,-2
+P0653,G1,School,6,-1
+P0653,G1,School,12,1
+P0653,G2,School,6,0
+P0653,G2,School,12,0
+P0655,G1,Skills,6,1
+P0655,G1,Skills,12,0
+P0655,G2,Relationships,6,2
+P0655,G2,Relationships,12,2
+P0656,G1,Skills,6,0
+P0656,G1,Skills,12,1
+P0656,G2,College & career,6,1
+P0656,G2,College & career,12,-1
+P0658,G1,School,6,1
+P0658,G1,School,12,0
+P0658,G2,College & career,6,2
+P0658,G2,College & career,12,0
+P0660,G1,College & career,6,0
+P0660,G1,College & career,12,0
+P0660,G2,Wellbeing,6,0
+P0660,G2,Wellbeing,12,2
+P0662,G1,School,6,1
+P0662,G1,School,12,0
+P0662,G2,School,6,2
+P0662,G2,School,12,1
+P0666,G1,College & career,6,0
+P0666,G1,College & career,12,0
+P0666,G2,School,6,1
+P0666,G2,School,12,1
+P0667,G1,School,6,-1
+P0667,G1,School,12,0
+P0667,G2,School,6,0
+P0667,G2,School,12,2
+P0670,G1,College & career,6,2
+P0670,G1,College & career,12,0
+P0670,G2,College & career,6,1
+P0670,G2,College & career,12,0
+P0670,G3,Relationships,6,2
+P0670,G3,Relationships,12,1
+P0671,G1,School,6,0
+P0671,G1,School,12,0
+P0671,G2,School,6,1
+P0671,G2,School,12,2
+P0675,G1,School,6,-1
+P0675,G1,School,12,0
+P0675,G2,College & career,6,0
+P0675,G2,College & career,12,1
+P0675,G3,Skills,6,-1
+P0675,G3,Skills,12,0
+P0676,G1,College & career,6,2
+P0676,G1,College & career,12,0
+P0676,G2,Relationships,6,0
+P0676,G2,Relationships,12,0
+P0676,G3,School,6,0
+P0676,G3,School,12,0
+P0677,G1,School,6,0
+P0677,G1,School,12,1
+P0677,G2,School,6,0
+P0677,G2,School,12,2
+P0678,G1,Skills,6,-1
+P0678,G1,Skills,12,-1
+P0678,G2,School,6,1
+P0678,G2,School,12,-1
+P0678,G3,School,6,1
+P0678,G3,School,12,0
+P0685,G1,School,6,0
+P0685,G1,School,12,0
+P0685,G2,School,6,2
+P0685,G2,School,12,1
+P0689,G1,School,6,-2
+P0689,G1,School,12,-1
+P0689,G2,Skills,6,2
+P0689,G2,Skills,12,-1
+P0689,G3,School,6,-1
+P0689,G3,School,12,-1
+P0690,G1,College & career,6,-1
+P0690,G1,College & career,12,1
+P0690,G2,School,6,0
+P0690,G2,School,12,1
+P0693,G1,School,6,1
+P0693,G1,School,12,2
+P0693,G2,School,6,-1
+P0693,G2,School,12,0
+P0694,G1,Wellbeing,6,0
+P0694,G1,Wellbeing,12,0
+P0694,G2,School,6,0
+P0694,G2,School,12,1
+P0695,G1,Skills,6,1
+P0695,G1,Skills,12,1
+P0695,G2,Relationships,6,2
+P0695,G2,Relationships,12,2
+P0700,G1,Relationships,6,-1
+P0700,G1,Relationships,12,2
+P0700,G2,School,6,-2
+P0700,G2,School,12,0
+P0700,G3,College & career,6,0
+P0700,G3,College & career,12,0
+P0701,G1,College & career,6,-1
+P0701,G1,College & career,12,1
+P0701,G2,College & career,6,-1
+P0701,G2,College & career,12,1
+P0701,G3,School,6,-1
+P0701,G3,School,12,0
+P0704,G1,Wellbeing,6,0
+P0704,G1,Wellbeing,12,0
+P0704,G2,College & career,6,1
+P0704,G2,College & career,12,-2
+P0704,G3,School,6,1
+P0704,G3,School,12,0
+P0707,G1,College & career,6,0
+P0707,G1,College & career,12,-2
+P0707,G2,College & career,6,2
+P0707,G2,College & career,12,1
+P0708,G1,Relationships,6,0
+P0708,G1,Relationships,12,2
+P0708,G2,School,6,1
+P0708,G2,School,12,0
+P0711,G1,School,6,0
+P0711,G1,School,12,-1
+P0711,G2,Wellbeing,6,1
+P0711,G2,Wellbeing,12,0
+P0711,G3,Wellbeing,6,1
+P0711,G3,Wellbeing,12,1
+P0712,G1,School,6,-2
+P0712,G1,School,12,-1
+P0712,G2,School,6,-1
+P0712,G2,School,12,1
+P0713,G1,School,6,0
+P0713,G1,School,12,-1
+P0713,G2,Skills,6,-1
+P0713,G2,Skills,12,0
+P0715,G1,Wellbeing,6,0
+P0715,G1,Wellbeing,12,0
+P0715,G2,Skills,6,0
+P0715,G2,Skills,12,0
+P0715,G3,College & career,6,1
+P0715,G3,College & career,12,1
+P0719,G1,School,6,0
+P0719,G1,School,12,0
+P0719,G2,School,6,0
+P0719,G2,School,12,1
+P0721,G1,Wellbeing,6,-1
+P0721,G1,Wellbeing,12,1
+P0721,G2,Relationships,6,1
+P0721,G2,Relationships,12,1
+P0721,G3,College & career,6,0
+P0721,G3,College & career,12,1
+P0728,G1,Skills,6,0
+P0728,G1,Skills,12,-1
+P0728,G2,Wellbeing,6,0
+P0728,G2,Wellbeing,12,1
+P0728,G3,Relationships,6,0
+P0728,G3,Relationships,12,0
+P0734,G1,Wellbeing,6,-1
+P0734,G1,Wellbeing,12,-1
+P0734,G2,Wellbeing,6,0
+P0734,G2,Wellbeing,12,0
+P0734,G3,College & career,6,1
+P0734,G3,College & career,12,1
+P0737,G1,School,6,1
+P0737,G1,School,12,0
+P0737,G2,Skills,6,-1
+P0737,G2,Skills,12,1
+P0737,G3,Wellbeing,6,1
+P0737,G3,Wellbeing,12,1
+P0739,G1,Relationships,6,1
+P0739,G2,College & career,6,2
+P0740,G1,School,6,-2
+P0740,G1,School,12,0
+P0740,G2,Skills,6,0
+P0740,G2,Skills,12,0
+P0743,G1,School,6,1
+P0743,G2,School,6,2
+P0744,G1,Skills,6,2
+P0744,G1,Skills,12,1
+P0744,G2,School,6,0
+P0744,G2,School,12,-1
+P0744,G3,College & career,6,1
+P0744,G3,College & career,12,2
+P0747,G1,College & career,6,-1
+P0747,G1,College & career,12,-1
+P0747,G2,Skills,6,0
+P0747,G2,Skills,12,0
+P0747,G3,Relationships,6,-1
+P0747,G3,Relationships,12,0
+P0748,G1,Wellbeing,6,2
+P0748,G1,Wellbeing,12,0
+P0748,G2,Relationships,6,-1
+P0748,G2,Relationships,12,0
+P0750,G1,School,6,2
+P0750,G1,School,12,2
+P0750,G2,College & career,6,0
+P0750,G2,College & career,12,2
+P0751,G1,School,6,0
+P0751,G1,School,12,1
+P0751,G2,College & career,6,-1
+P0751,G2,College & career,12,0
+P0751,G3,College & career,6,-1
+P0751,G3,College & career,12,0
+P0754,G1,School,6,0
+P0754,G1,School,12,0
+P0754,G2,Relationships,6,1
+P0754,G2,Relationships,12,-1
+P0757,G1,School,6,0
+P0757,G1,School,12,-2
+P0757,G2,School,6,-1
+P0757,G2,School,12,0
+P0757,G3,School,6,-2
+P0757,G3,School,12,0
+P0758,G1,College & career,6,-1
+P0758,G1,College & career,12,0
+P0758,G2,College & career,6,-1
+P0758,G2,College & career,12,-1
+P0758,G3,School,6,-1
+P0758,G3,School,12,1
+P0760,G1,Skills,6,1
+P0760,G1,Skills,12,2
+P0760,G2,Skills,6,0
+P0760,G2,Skills,12,0
+P0762,G1,Wellbeing,6,1
+P0762,G1,Wellbeing,12,0
+P0762,G2,School,6,1
+P0762,G2,School,12,1
+P0762,G3,College & career,6,1
+P0762,G3,College & career,12,1
+P0763,G1,College & career,6,-1
+P0763,G1,College & career,12,0
+P0763,G2,School,6,0
+P0763,G2,School,12,0
+P0763,G3,College & career,6,0
+P0763,G3,College & career,12,0
+P0764,G1,College & career,6,-1
+P0764,G2,College & career,6,-1
+P0764,G3,Skills,6,1
+P0765,G1,Wellbeing,6,1
+P0765,G1,Wellbeing,12,0
+P0765,G2,College & career,6,0
+P0765,G2,College & career,12,1
+P0768,G1,Skills,6,1
+P0768,G1,Skills,12,0
+P0768,G2,Wellbeing,6,0
+P0768,G2,Wellbeing,12,0
+P0769,G1,Wellbeing,6,1
+P0769,G1,Wellbeing,12,1
+P0769,G2,College & career,6,1
+P0769,G2,College & career,12,1
+P0769,G3,College & career,6,2
+P0769,G3,College & career,12,-1
+P0771,G1,School,6,-1
+P0771,G1,School,12,1
+P0771,G2,School,6,0
+P0771,G2,School,12,0
+P0775,G1,College & career,6,0
+P0775,G1,College & career,12,0
+P0775,G2,College & career,6,0
+P0775,G2,College & career,12,0
+P0775,G3,Relationships,6,1
+P0775,G3,Relationships,12,2
+P0777,G1,College & career,6,2
+P0777,G1,College & career,12,2
+P0777,G2,Wellbeing,6,1
+P0777,G2,Wellbeing,12,1
+P0778,G1,Skills,6,0
+P0778,G1,Skills,12,-1
+P0778,G2,School,6,-1
+P0778,G2,School,12,1
+P0779,G1,College & career,6,2
+P0779,G1,College & career,12,1
+P0779,G2,Relationships,6,1
+P0779,G2,Relationships,12,0
+P0784,G1,College & career,6,2
+P0784,G2,College & career,6,0
+P0784,G3,School,6,1
+P0785,G1,Relationships,6,-1
+P0785,G1,Relationships,12,0
+P0785,G2,School,6,0
+P0785,G2,School,12,1
+P0785,G3,Skills,6,0
+P0785,G3,Skills,12,-2
+P0788,G1,College & career,6,1
+P0788,G1,College & career,12,1
+P0788,G2,School,6,0
+P0788,G2,School,12,0
+P0796,G1,Wellbeing,6,1
+P0796,G1,Wellbeing,12,2
+P0796,G2,School,6,-2
+P0796,G2,School,12,-1
+P0796,G3,School,6,1
+P0796,G3,School,12,1
+P0798,G1,College & career,6,-2
+P0798,G1,College & career,12,1
+P0798,G2,College & career,6,-2
+P0798,G2,College & career,12,-2
+P0798,G3,College & career,6,0
+P0798,G3,College & career,12,1
+P0799,G1,Wellbeing,6,0
+P0799,G2,College & career,6,-1

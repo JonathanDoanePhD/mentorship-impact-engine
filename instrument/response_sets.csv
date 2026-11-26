@@ -1,0 +1,44 @@
+response_set,code,label,scored_value
+yes_no,1,Yes,1
+yes_no,2,No,0
+yes_no_unsure,1,Yes,1
+yes_no_unsure,2,No,0
+yes_no_unsure,3,Not sure,0
+count_0_5plus,0,None,0
+count_0_5plus,1,1,1
+count_0_5plus,2,2,2
+count_0_5plus,3,3 or 4,3.5
+count_0_5plus,4,5 or more,5
+comfort_4,1,Not at all comfortable,1
+comfort_4,2,A little comfortable,2
+comfort_4,3,Fairly comfortable,3
+comfort_4,4,Very comfortable,4
+agree_5,1,Strongly disagree,1
+agree_5,2,Disagree,2
+agree_5,3,Not sure,3
+agree_5,4,Agree,4
+agree_5,5,Strongly agree,5
+confidence_5,1,Not at all sure,1
+confidence_5,2,A little sure,2
+confidence_5,3,Somewhat sure,3
+confidence_5,4,Pretty sure,4
+confidence_5,5,Completely sure,5
+frequency_4,1,Never,1
+frequency_4,2,Sometimes,2
+frequency_4,3,Usually,3
+frequency_4,4,Always,4
+hope_4,1,None of the time,1
+hope_4,2,Some of the time,2
+hope_4,3,Most of the time,3
+hope_4,4,All of the time,4
+education_expect,1,High school or less,1
+education_expect,2,Job training or certificate,2
+education_expect,3,Two-year college degree,3
+education_expect,4,Four-year college degree,4
+education_expect,5,Graduate or professional degree,5
+education_expect,6,Not sure,
+never_always_5,1,Never,1
+never_always_5,2,Rarely,2
+never_always_5,3,Sometimes,3
+never_always_5,4,Most of the time,4
+never_always_5,5,Always,5

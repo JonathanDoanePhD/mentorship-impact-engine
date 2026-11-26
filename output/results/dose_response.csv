@@ -1,0 +1,7 @@
+group,n,mean_change,low,high
+Match lasted 12 months,241,4.4779,2.4596,6.4961
+Closed early (< 6 months),95,-1.6667,-5.3589,2.0255
+Lower relationship quality (3 mo),95,4.3860,0.9910,7.7809
+Middle relationship quality (3 mo),69,3.5326,-0.0623,7.1275
+Higher relationship quality (3 mo),77,5.4383,1.9420,8.9346
+Comparison group,282,-0.2807,-2.0749,1.5135

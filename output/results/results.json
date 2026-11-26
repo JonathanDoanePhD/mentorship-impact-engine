@@ -1,0 +1,37 @@
+{
+  "synthetic": true,
+  "enrolled": {
+    "program": 400,
+    "comparison": 400
+  },
+  "retention_12m": {
+    "program": 0.84,
+    "comparison": 0.705
+  },
+  "early_closure_rate": 0.2925,
+  "median_months_active": 12.0,
+  "baseline_r": 0.6022130179142688,
+  "differential_attrition": 0.135,
+  "differential_attrition_flag": true,
+  "low_reliability_scales": [
+    "bridging",
+    "supportive_adults"
+  ],
+  "n_for_80pct_power": {
+    "0.1": null,
+    "0.2": 400,
+    "0.3": 150
+  },
+  "gas_mean_t": 52.29891297126056,
+  "gas_share_at_or_above_expected": 0.7023809523809523,
+  "primary": [
+    "belonging",
+    "self_efficacy",
+    "engagement"
+  ],
+  "secondary": [
+    "supportive_adults",
+    "bridging",
+    "hope"
+  ]
+}
